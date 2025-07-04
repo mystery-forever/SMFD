@@ -68,5 +68,3 @@ To develop advanced mathematical models and computational tools for pricing fina
 
 ---
 
-## 📁 Repository Structure
-
